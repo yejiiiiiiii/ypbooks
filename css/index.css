@@ -31,6 +31,7 @@ a {
 
 body {
     font-family: 'Pretendard';
+    min-width: 1920px;
 }
 
 h2 {
